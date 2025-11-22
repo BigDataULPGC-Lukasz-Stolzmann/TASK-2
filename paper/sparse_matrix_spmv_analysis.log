@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.10.23)  22 NOV 2025 19:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.10.23)  22 NOV 2025 19:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -942,63 +942,40 @@ L3 programming layer <2025-01-18>
  ***********
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
 Package rerunfilecheck Warning: File `sparse_matrix_spmv_analysis.out' has chan
 ged.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `sparse_matrix_spmv_analysis.out':
-(rerunfilecheck)             Before: 2653363C36A4A10C60548EBE6B5242F4;4928
-(rerunfilecheck)             After:  5C9DF20ACFD4BB3FCC6837EB0BBD6DCE;4288.
+(rerunfilecheck)             Before: CC7A1376CB66F59CC3A8BD2DC94F0228;4088
+(rerunfilecheck)             After:  ED1E4F641C97BC9CBE8DED737D31C5AA;4182.
  ) 
 Here is how much of TeX's memory you used:
- 34144 strings out of 473190
- 775789 string characters out of 5715799
+ 34134 strings out of 473190
+ 775654 string characters out of 5715799
  1506567 words of memory out of 5000000
- 56793 multiletter control sequences out of 15000+600000
+ 56788 multiletter control sequences out of 15000+600000
  575235 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,10n,101p,746b,1133s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{section.9} has been referenced but does not exist, 
-replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.6.3} has been referenced but does not ex
-ist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.6.2} has been referenced but does not ex
-ist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.6.1} has been referenced but does not ex
-ist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.4.3} has been referenced but does not ex
-ist, replaced by a fixed one
-
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
-sr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr
-/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/l
-ocal/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/loc
-al/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local
-/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/t
-exlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/tex
-live/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texli
-ve/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive
-/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2
-025/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb></usr/local/texlive/202
-5/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on sparse_matrix_spmv_analysis.pdf (6 pages, 289703 bytes).
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></u
+sr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr
+/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/l
+ocal/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/loc
+al/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local
+/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/t
+exlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/tex
+live/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texli
+ve/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive
+/2025/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb></usr/local/texlive/2
+025/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on sparse_matrix_spmv_analysis.pdf (6 pages, 288363 bytes).
 PDF statistics:
- 308 PDF objects out of 1000 (max. 8388607)
- 270 compressed objects within 3 object streams
- 96 named destinations out of 1000 (max. 500000)
- 253 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 288 PDF objects out of 1000 (max. 8388607)
+ 250 compressed objects within 3 object streams
+ 91 named destinations out of 1000 (max. 500000)
+ 213 words of extra memory for PDF output out of 10000 (max. 10000000)
 
